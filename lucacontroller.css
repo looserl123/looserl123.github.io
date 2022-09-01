@@ -125,7 +125,7 @@ background-position: 0 -70px;
     background: url(luc-start.png);
     width: 28px;
     height: 46px;
-    opacity: 0;
+    opacity: 1;
 }
 
 .ds4 .back.pressed, .ds4 .start.pressed {
